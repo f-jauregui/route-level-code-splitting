@@ -1,4 +1,4 @@
-# dynamic-imports-poc
+# VueJS - Route level code splitting
 
 ## Project setup
 ```
